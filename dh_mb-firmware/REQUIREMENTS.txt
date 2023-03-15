@@ -1,0 +1,4 @@
+(I dont know if thats the right/best way to use requirements, but here we go)
+
+#Requiered Libraries for arduino IDE:
+FastLED v2.5 : https://github.com/FastLED/FastLED
